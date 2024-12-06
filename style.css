@@ -1,0 +1,7 @@
+.hint {
+    border: 1px solid black;
+    width: max-content;
+}
+.hint.error{
+    border-color: red;
+}
